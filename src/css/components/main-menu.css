@@ -1,0 +1,7 @@
+.main-menu {
+  color: var(--color-second);
+  font-family: Comfortaa, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 22px;
+}
