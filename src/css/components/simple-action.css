@@ -1,7 +1,11 @@
-.main-menu {
+.simple-action {
   color: var(--color-second);
   font-family: Comfortaa, sans-serif;
   font-weight: bold;
   text-decoration: none;
-  margin-left: 22px;
+}
+
+.simple-action.-light {
+  font-family: 'Bitter', serif;
+  color: var(--color-base-light);
 }
