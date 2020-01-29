@@ -14,3 +14,9 @@ Para acessar o layout final que será desenvolvido, acesse [este link](https://w
 
 ## Sobre o Projeto
 Uma página simples com o jogo jokempo para quando o usuário acessar um endereço inválido.
+
+## Estrutura
+Para melhorar a organização dos arquivos CSS, está sendo usuado o padrão ITCSS para padronização das pastas, abaixo alguns links interessantes para saber mais.
+
+- [Organizando seu CSS com ITCSS](https://willianjusten.com.br/organizando-seu-css-com-itcss/)
+- [ITCSS – Organizando melhor o CSS](https://www.treinaweb.com.br/blog/itcss-organizando-melhor-o-css/)
