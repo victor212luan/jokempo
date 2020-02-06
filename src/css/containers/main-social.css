@@ -1,0 +1,10 @@
+.main-social {
+  padding-bottom: var(--gap-mini);
+  border-bottom: var(--color-second) dashed 1px;
+}
+
+.main-social > img{
+  margin-right: var(--gap-smaller);
+  height: 18px;
+  width: 18px;
+}

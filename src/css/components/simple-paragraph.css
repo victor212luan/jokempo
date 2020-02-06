@@ -1,0 +1,5 @@
+.simple-paragraph {
+  font-size: 14px;
+  font-family: Helvetica;
+  padding-top: var(--gap-mini);
+}
